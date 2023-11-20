@@ -1,6 +1,7 @@
 ## 2.28.0 (Unreleased)
 FEATURES:
 * resource/sumologic_monitor: Added support for setting `time_zone` at Monitor level for notifications content (GH-586)
+* resource/sumologic_muting_schedule: Added group supporting for muting schedule (GH-593)
 
 ## 2.27.1 (November 14, 2023)
 BUG FIXES: 
